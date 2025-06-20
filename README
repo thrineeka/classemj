@@ -1,0 +1,11 @@
+▪ ¿Qué hace tu app? 
+Es un ejemplo de app para clasificar emojis en tiempo real usando camara web,
+los usuarios muestran gestos o expresiones que el modelo ya ha aprendido y predice
+a que emoji corresponde cada gesto.
+
+▪ ¿Qué modelo usaste? 
+Se uso un modelo de aprendizaje automático de imágenes que fue entrenado 
+con Teachable Machine.
+
+▪ ¿Qué aprendiste? 
+
